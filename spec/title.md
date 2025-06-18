@@ -1,15 +1,15 @@
-ToIP Template Specification
+TMCP: MCP over TSP Specification
 ==================
 
-**Specification Status**: v1.0 Draft
+**Specification Status**: v0.1 Draft
 
 **Latest Draft:**
 
 [https://github.com/trustoverip/specification-template](https://github.com/trustoverip/specification-template)
 
-**Editors:**
+**Author:**
 
-- [Kevin Griffin](https://github.com/m00sey), [GLEIF](https://gleif.org)
+- [Wenjing Chu](https://github.com/wenjingchu), Futurewei Technologies, Inc.
 
 **Contributors:**
 
