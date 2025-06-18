@@ -15,8 +15,8 @@ TMCP: MCP over TSP Specification
 
 **Participate:**
 
-~ [GitHub repo](https://github.com/trustoverip/specification-template)
-~ [Commit history](https://github.com/trustoverip/specification-template/commits/main)
+~ [GitHub repo](https://github.com/trustoverip/aimwg-tmcp-specification)
+~ [Commit history](https://github.com/trustoverip/aimwg-tmcp-specification/commits/main)
 
 ------------------------------------
 
