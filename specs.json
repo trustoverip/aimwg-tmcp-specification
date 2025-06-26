@@ -2,7 +2,7 @@
 {
   "specs": [
     {
-      "title": "ToIP Template Specification",
+      "title": "TMCP: MCP over TSP Specification",
       "spec_directory": "./spec",
       "output_path": "./docs",
       "markdown_paths": [
